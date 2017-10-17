@@ -2,7 +2,7 @@ id: 192144
 key: '2736698543239847'
 locale: zh-cn
 version: 1.0.0
-title: 项目 - 编写你的作品集网页
+title: 项目-编写你的作品集网页
 semantic_type: Lesson
 updated_at: 'Wed Sep 20 2017 12:46:51 GMT+0000 (UTC)'
 is_public: true
@@ -11,7 +11,7 @@ image:
   width: 592
   height: 640
 video: null
-summary: 请根据提供的设计原型 PDF 文件，使用 HTML 和 CSS 再现该设计。
+summary: 请根据提供的设计原型PDF文件，使用HTML和CSS再现该设计。
 lesson_type: Classroom
 duration: 20
 is_project_lesson: true
@@ -43,30 +43,30 @@ concepts:
         is_public: true
         text: |-
           ## 项目概况
-          在本项目中，你将构建一个作品集网站。请根据提供的设计原型 PDF 文件，使用 HTML 和 CSS 再现该设计。请开发一个响应式网站，针对在纳米学位课程中完成的各作品集项目， 显示其相应的图片、说明和 链接。
+          在本项目中，你将构建一个作品集网站。请根据提供的设计原型PDF文件，使用 HTML和CSS 再现该设计。请开发一个响应式网站，针对在纳米学位课程中完成的各作品集项目，显示其相应的图片、说明和链接。
 
           建议在成功再现设计模型之后，还可以继续对设计进行调整和自定义制作，通过个性化来创建属于自己的设计！自己动手实现的作品集网站首先要让自己满意。
 
           ## 为什么要进行这个项目？
           对于公司而言，他们首先关注的并不是应聘者的毕业院校或平均成绩，而是实践经验！因此你需要构建专业作品集来显示出自己的技能。
 
-          在本项目中，你将构建一个外观美观的作品集， 显示所有项目对应的图片、说明和链接。 请按照 [优达学城样式指南](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/UdacityNanodegreeStyleGuide_JavaScript_ZH.pdf) 编写代码，完成本项目。
+          在本项目中，你将构建一个外观美观的作品集，显示所有项目对应的图片、说明和链接。请按照[优达学城样式指南](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/UdacityNanodegreeStyleGuide_JavaScript_ZH.pdf) 编写代码，完成本项目。
 
           ## 我将学习到什么内容？
-          你将学习如何使用 HTML 定义 Web 网页的内容， 将每个 Web 网页视为在屏幕上显示的一组盒子。然后学习如何使用 CSS 准确放置这些盒子，并美化外观。
+          你将学习如何使用HTML定义Web网页的内容，将每个Web网页视为在屏幕上显示的一组盒子。然后学习如何使用CSS准确放置这些盒子，并美化外观。
 
-          请遵照 [优达学城样式指南](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/UdacityNanodegreeStyleGuide_JavaScript_ZH.pdf) 完成学习内容。 在进入目前的开发阶段后，此样式指南可作为重要的标准。
+          请遵照[优达学城样式指南](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/UdacityNanodegreeStyleGuide_JavaScript_ZH.pdf) 完成学习内容。在进入目前的开发阶段后，此样式指南可作为重要的标准。
 
           ## 对于我的职业生涯具有哪些重要意义？
 
-          * 如果应聘时没有作品集，招聘方基本不会查看简历， 更不会提供面试机会。
-          * 从根本角度来讲，Web 应用只作为内容传递机制， HTML 才能定义语言的组织结构。
-          * 如果内容的外观设计不达标便会破坏阅读体验， 利用 CSS 可以不受用户设备的限制，创建美观内容。
+          * 如果应聘时没有作品集，招聘方基本不会查看简历，更不会提供面试机会。
+          * 从根本角度来讲，Web应用只作为内容传递机制，HTML才能定义语言的组织结构。
+          * 如果内容的外观设计不达标便会破坏阅读体验，利用CSS可以不受用户设备的限制，创建美观内容。
 
-          获取本项目设计原型，请访问 [此处](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/design-mockup-portfolio.pdf)。
+          获取本项目设计原型，请访问[此处](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/design-mockup-portfolio.pdf)。
 
           <br>
-        instructor_notes: "<ul>\n<li><a href=\"\t\nhttps://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/UdacityNanodegreeStyleGuide_HTML_ZH.pdf\">优达学城 HTML 样式指南</a></li>\n<li><a href=\"https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/UdacityNanodegreeStyleGuide_CSS_ZH.pdf\">优达学城 CSS 样式指南</a></li><li>\n<a href=\"http://validator.w3.org/#validate_by_input\">HTML 验证程序</a></li><li>\n<a href=\"https://jigsaw.w3.org/css-validator/#validate_by_input\">CSS 验证程序</a></li></ul>"
+        instructor_notes: "<ul>\n<li><a href=\"\t\nhttps://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/UdacityNanodegreeStyleGuide_HTML_ZH.pdf\">优达学城HTML样式指南</a></li>\n<li><a href=\"https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/UdacityNanodegreeStyleGuide_CSS_ZH.pdf\">优达学城CSS样式指南</a></li><li>\n<a href=\"http://validator.w3.org/#validate_by_input\">HTML验证程序</a></li><li>\n<a href=\"https://jigsaw.w3.org/css-validator/#validate_by_input\">CSS验证程序</a></li></ul>"
         resources:
           files: []
           google_plus_link: null
@@ -102,28 +102,28 @@ concepts:
         is_public: true
         text: |-
           ## 我如何完成此项目？
-          有关构建此项目所需的全部课程，请查看 [HTML 和 CSS 简介课程](https://classroom.udacity.com/courses/ud304)、[响应式 Web 设计基础](https://classroom.udacity.com/courses/ud893) 和 [响应式图片](https://classroom.udacity.com/courses/ud882)。 可根据自己所具备的 HTML 和 CSS 相关背景知识，选读所需课程来完成项目。为了明确项目实现需要掌握哪些知识，请首先下载提供的[原型](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/design-mockup-portfolio.pdf)。然后，转到课程获得所需知识以完成项目。
+          有关构建此项目所需的全部课程，请查看[HTML和CSS简介课程](https://classroom.udacity.com/courses/ud304)、[响应式Web设计基础](https://classroom.udacity.com/courses/ud893)和[响应式图片](https://classroom.udacity.com/courses/ud882)。可根据自己所具备的HTML和CSS相关背景知识，选读所需课程来完成项目。为了明确项目实现需要掌握哪些知识，请首先下载提供的[原型](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/design-mockup-portfolio.pdf)。然后，转到课程获得所需知识以完成项目。
 
-          请确保严格遵从[项目评估准则](https://review.udacity.com/#!/rubrics/497/view) 设计页面。例如，请注意必须使用 [HTML5 语义（结构）元素](https://www.w3.org/wiki/HTML_structural_elements#Enter_HTML5_structural_elements) 来组织内容。
+          请确保严格遵从[项目评估准则](https://review.udacity.com/#!/rubrics/497/view) 设计页面。例如，请注意必须使用[HTML5语义（结构元素](https://www.w3.org/wiki/HTML_structural_elements#Enter_HTML5_structural_elements)来组织内容。
 
           说明：
 
           1. 从辅助材料部分下载并查看设计原型文件。
           2. 识别构建所需的各种框，用于设计再现。
-          3. 编写 HTML 和 CSS 文件，通过不断迭代，最终使作品与设计模型完全一致。
+          3. 编写HTML和CSS文件，通过不断迭代，最终使作品与设计模型完全一致。
           4. 使用自定义颜色、附加内容和自己的图片，对作品集进行个性化制作。
-          5. 使用 [W3C 验证程序 ](Http://validator.w3.org/) 验证编写的 HTML 和 CSS。*注意：以下在优达学城中可接受的问题， 在验证程序中将被视为错误：*
+          5. 使用[W3C验证程序](Http://validator.w3.org/)验证编写的HTML和CSS。*注意：以下在优达学城中可接受的问题，在验证程序中将被视为错误：*
 
-          - HTML5：**Bad value X-UA-Compatible for attribute http-equiv on element meta**，通常在使用 X-UA-Compatible meta 标签时出现。
+          - HTML5：**Bad value X-UA-Compatible for attribute http-equiv on element meta**，通常在使用X-UA-Compatible meta标签时出现。
 
-          - CSS3：**Property *[此处显示的某属性]* is an unknown vendor extension**，通常在使用浏览器引擎前缀属性（如 -moz-box-sizing）时 出现。
+          - CSS3：**Property *[此处显示的某属性]* is an unknown vendor extension**，通常在使用浏览器引擎前缀属性（如-moz-box-sizing）时出现。
 
           ## 现在还需要做什么？
 
-          如需获取创建本项目的相关 HTML 和 CSS 指导， 请直接访问纳米学位第一课：[HTML 和 CSS 入门](https://classroom.udacity.com/courses/ud304)。现在立即开始学习！
+          如需获取创建本项目的相关HTML和CSS指导，请直接访问纳米学位第一课：[HTML和CSS入门](https://classroom.udacity.com/courses/ud304)。现在立即开始学习！
 
           <br>
-        instructor_notes: "<ul>\n<li><a href=\"\t\nhttps://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/UdacityNanodegreeStyleGuide_HTML_ZH.pdf\">优达学城 HTML 样式指南</a></li>\n<li><a href=\"https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/UdacityNanodegreeStyleGuide_CSS_ZH.pdf\">优达学城 CSS 样式指南</a></li><li>\n<a href=\"http://validator.w3.org/#validate_by_input\">HTML 验证程序</a></li><li>\n<a href=\"https://jigsaw.w3.org/css-validator/#validate_by_input\">CSS 验证程序</a></li></ul>"
+        instructor_notes: "<ul>\n<li><a href=\"\t\nhttps://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/UdacityNanodegreeStyleGuide_HTML_ZH.pdf\">优达学城HTML样式指南</a></li>\n<li><a href=\"https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd001/UdacityNanodegreeStyleGuide_CSS_ZH.pdf\">优达学城CSS样式指南</a></li><li>\n<a href=\"http://validator.w3.org/#validate_by_input\">HTML验证程序</a></li><li>\n<a href=\"https://jigsaw.w3.org/css-validator/#validate_by_input\">CSS验证程序</a></li></ul>"
         resources:
           files: []
           google_plus_link: null
